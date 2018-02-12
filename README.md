@@ -1,7 +1,7 @@
 ## Project Description:
 
 This is IoT Gold project source code center.
-Details see IoTG [IoTG](http://www.iotg.io/)
+Details see IoTG [IoTG](http://iotg.io/)
 
 ## Problem:
 
@@ -11,16 +11,14 @@ Details see IoTG [IoTG](http://www.iotg.io/)
 
 ## Solution:
 
-[White Paper](https://comingsoon.pdf)
+[White Paper](http://iotg.io/comingsoon.pdf)
 
 ## Build Instructions
 
-This project is base on Ethereum [Ethereum](https://github.com/ethereum/).
+Source code is powered by Ethereum [Ethereum](https://github.com/ethereum/).
 
 ```
 $ Coming soon.
-```
-or
 ```
 
 ## Guidelines
