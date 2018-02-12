@@ -1,13 +1,13 @@
 ## Project Description:
 
 This is IoT Gold project source code center.
-Details see IoTG [IoTG](http://iotg.io/)
+Details see [IoTG](http://iotg.io/)
 
 ## Problem:
 
 * IoT resource share to public is very different.
 * The gap between IoT network and blockchain
-* Proof of work computation waste
+* The Waste of PoW computing.
 
 ## Solution:
 
@@ -15,16 +15,16 @@ Details see IoTG [IoTG](http://iotg.io/)
 
 ## Build Instructions
 
-Source code is powered by Ethereum [Ethereum](https://github.com/ethereum/).
-
 ```
 $ Coming soon.
 ```
+Source code is powered by Ethereum [Ethereum](https://github.com/ethereum/).
 
 ## Guidelines
 
 * the first point ...
-* the second
+* the second ...
+* third ...
 
 # IoT Gold
 
